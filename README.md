@@ -1,0 +1,2 @@
+# checkergame
+C++ first project
